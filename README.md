@@ -11,7 +11,7 @@ LIBRARIES USED-
 2] sqlite3
 
 FLOWCHART
-![studentmanagementsystem](https://github.com/Shrutimangalwedhe/student-management-system/assets/122894500/fdf626b7-983e-47c7-b3bd-139c764ae647)
+![studentmanagementsystem (1)](https://github.com/Shrutimangalwedhe/student-management-system/assets/122894500/c386bcf4-ab49-419f-9eb8-26fa7254557d)
 
 HOME PAGE
 ![image](https://github.com/Shrutimangalwedhe/student-management-system/assets/122894500/b4362a0c-b944-4760-90fd-45857a34a611)
