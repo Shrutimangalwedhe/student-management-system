@@ -1,4 +1,4 @@
-# student-management-system
+# Student-Management-System
 
 OBJECTIVE OF THE PROJECT-
 1] To add update and delete the student data(can be done through admin only)
